@@ -1,0 +1,13 @@
+C:\Users\ENES\source\repos\Bank_App\Bank_App\bin\Debug\Bank_App.exe.config
+C:\Users\ENES\source\repos\Bank_App\Bank_App\bin\Debug\Bank_App.exe
+C:\Users\ENES\source\repos\Bank_App\Bank_App\bin\Debug\Bank_App.pdb
+C:\Users\ENES\source\repos\Bank_App\Bank_App\obj\Debug\Bank_App.csprojAssemblyReference.cache
+C:\Users\ENES\source\repos\Bank_App\Bank_App\obj\Debug\Bank_App.Properties.Resources.resources
+C:\Users\ENES\source\repos\Bank_App\Bank_App\obj\Debug\Bank_App.csproj.GenerateResource.cache
+C:\Users\ENES\source\repos\Bank_App\Bank_App\obj\Debug\Bank_App.csproj.CoreCompileInputs.cache
+C:\Users\ENES\source\repos\Bank_App\Bank_App\obj\Debug\Bank_App.exe
+C:\Users\ENES\source\repos\Bank_App\Bank_App\obj\Debug\Bank_App.pdb
+C:\Users\ENES\source\repos\Bank_App\Bank_App\obj\Debug\Bank_App.FormLogin.resources
+C:\Users\ENES\source\repos\Bank_App\Bank_App\obj\Debug\Bank_App.FormAdmin.resources
+C:\Users\ENES\source\repos\Bank_App\Bank_App\obj\Debug\Bank_App.FormUI.resources
+C:\Users\ENES\source\repos\Bank_App\Bank_App\obj\Debug\Bank_App.FormSI.resources
